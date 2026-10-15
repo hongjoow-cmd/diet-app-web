@@ -1,0 +1,16 @@
+{
+  "name": "식단기록",
+  "short_name": "식단기록",
+  "description": "먹은 음식을 기록하고 목표 칼로리를 관리해요.",
+  "lang": "ko",
+  "start_url": "/diet-app-web/",
+  "scope": "/diet-app-web/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#208AEF",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
